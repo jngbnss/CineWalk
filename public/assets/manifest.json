@@ -1,0 +1,4 @@
+{
+  "$comment": "Optional glTF/texture assets. Only paths listed here are requested, so the app never 404s. Paths are relative to public/assets/.",
+  "assets": []
+}
